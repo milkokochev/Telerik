@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum of 3 Numbers", "Sum of 3 Numbers\01. Sum of 3 Numbers.csproj", "{5B4F72A3-D798-4F2F-91C1-DC95BF8928C1}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Fibonacci Numbers", "Fibonacci Numbers\10. Fibonacci Numbers.csproj", "{A598C12A-F293-4FF9-97B6-6CEF2D800E4B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Numbers in Interval Dividable by Given Number", "Numbers in Interval Dividable by Given Number\11. Numbers in Interval Dividable by Given Number.csproj", "{82B5B22D-CCDE-4BD9-9334-AF5CFCB18E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Falling Rocks", "Falling Rocks\12. Falling Rocks.csproj", "{9A136C05-1E72-417A-B726-C08FB633B304}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{82B5B22D-CCDE-4BD9-9334-AF5CFCB18E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82B5B22D-CCDE-4BD9-9334-AF5CFCB18E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82B5B22D-CCDE-4BD9-9334-AF5CFCB18E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A136C05-1E72-417A-B726-C08FB633B304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A136C05-1E72-417A-B726-C08FB633B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A136C05-1E72-417A-B726-C08FB633B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A136C05-1E72-417A-B726-C08FB633B304}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

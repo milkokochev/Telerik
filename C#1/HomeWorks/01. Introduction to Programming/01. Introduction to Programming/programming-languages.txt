@@ -1,0 +1,44 @@
+﻿01.Java 
+Java is a programming language, that derives much of its syntax from C and C++, however it has
+fewer low-level facilities than either. Java is a general-purpose programming language that is
+designed to have fewer implementation dependencies as compared to previous languages. C# is an
+object oriented programming language. C# is a multi-paradigm programming language. C# is based
+on the C programming language It even shares some syntactic conventions with C. However, a 
+disadvantage of C# is that, as it was developed by Microsoft for use in its .NET framework, it
+only works on Microsoft operating systems.
+
+
+02.PHP
+PHP was designed preliminary to be used in web development so that dynamic pages could be created
+in better and effective ways. Under PHP license policies PHP is released as free software.
+Its original name was Personal Home Page
+PHP is a language itself which supports syntax of C and C++ whereas C# is one of the languages
+which is supported by .NET framework which supports more than 60+ languages.
+PHP can work with any kind of platform no matter whether it is Mac OS X, Windows , Unix, Linux or 
+any other but C# can go with Microsoft Windows.
+It is much easyer to learn and work with C# in compare to PHP
+
+
+03.C++
+C++ is a mid-level language and it was designed to be a low-level platform-neutral object-oriented 
+programming language. 
+C++ code usually compiles to assembly language. C# by contrast compiles to Intermediate language (IL),
+The IL is subsequently converted to native executable code by a process of Just-In-Time compilation.
+
+C# is designed to free from the task of doing memory management. It means in C# you don`t have to 
+explicitly delete memory that was allocated dynamically on the heap, as you could in C++.
+Rather, the garbage collector periodically cleans up memory that is no longer needed.
+
+
+04.HTML
+HTML is a tag language, which is used to describe the public part of the site. The language is quite 
+simple and was firstly developed to present text information in the browser. Using HTML it is impossible 
+to manage site content. User would have to work with a server directly using FTP-protocol to upload the 
+pictures, download the pages and update the text in them.
+
+
+05.Objective-C
+Objective-C is a dynamic, object-oriented extension of C. It's designed to be easy to use and read,
+while enabling sophisticated object-oriented design. It is the primary development language for new
+applications on Mac OS X and the iPhone. 
+

@@ -1,0 +1,4 @@
+﻿C# is a general object-oriented programming language
+
+.NET Framework contain C#, other .NET languages and also extensive class 
+library with predefined functionality used by developers to produce softwere

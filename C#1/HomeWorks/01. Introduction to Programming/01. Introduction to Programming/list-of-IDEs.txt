@@ -1,0 +1,46 @@
+﻿   
+	Eclipse
+
+The interface is a lot cleaner and concise than Visual Studio and the languages that
+are possible to use extend past the .Net Framework. Besides being the number on way to
+develop Android applications via the Android SDK, it is fully extensible to use languages
+such as Ruby, C, C++ and many many more.
+
+
+	#develop
+
+Free IDE for C#, VB.NET and Boo projects on Microsoft's .NET platform.
+It was designed as a free and lightweight alternative to Microsoft Visual Studio, and
+contains an equivalent feature for almost every essential Visual Studio Express feature,
+including features for project management, code editing, application compiling and debugging.
+To allow for easy project migration, SharpDevelop works natively with Visual Studio project
+and code files. It is able to compile applications for .NET Framework version 2.0, 3.0, 3.5,
+4.0 and the .NET Compact Framework 2.0 and 3.5
+
+
+	MonoDevelop
+
+Open source integrated development environment for Linux, OS X, and Windows. Its primary focus
+is development of projects that use Mono and .NET frameworks. MonoDevelop integrates features
+similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion,
+source control, a graphical user interface (GUI) and Web designer.
+
+
+	Code::Blocks
+
+Open-source, cross-platform IDE. Using a plugin architecture, its capabilities and features
+are defined by the provided plugins.
+
+
+	Oracle Netbeans
+
+Integrated development environment (IDE) for developing primarily with Java, but also with
+other languages, in particular PHP, C/C++, and HTML5. It is also an application platform
+framework for Java desktop applications and others.
+
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other
+platforms supporting a compatible JVM.
+
+The NetBeans Platform allows applications to be developed from a set of modular software
+components called modules. Applications based on the NetBeans Platform (including the NetBeans
+IDE itself) can be extended by third party developers
