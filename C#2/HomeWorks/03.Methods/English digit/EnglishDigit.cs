@@ -29,7 +29,7 @@ class EnglishDigit
 
     static void Main()
     {
-        Console.Write("Enter random nomber:");
+        Console.Write("Enter random number:");
         int number = int.Parse(Console.ReadLine());
 
         string digit = DigitAsWord(number);
